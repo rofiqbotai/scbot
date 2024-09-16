@@ -1,2 +1,0 @@
-# scbot
-opsilnal
